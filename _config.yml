@@ -27,7 +27,7 @@ title: PrimeRevenue's Technology Blog
 description: All Things Tech
 show_downloads: false
 google_analytics:
-repository: mlipkin/gh-pages
+repository: mlipkin/blog
 
 # Build settings
 markdown: kramdown
