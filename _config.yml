@@ -28,13 +28,13 @@ description: All Things Tech
 show_downloads: false
 google_analytics:
 repository: mlipkin/blog
-
+author:
+  name: Infrastructure Engineering
+  url: http://primerevenue.github.io
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
-  - github-pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
